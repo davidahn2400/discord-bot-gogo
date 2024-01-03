@@ -40,4 +40,4 @@ async def leave(ctx):
 
 
 
-bot.run('MTE5MDU2NjM1NTU3MzkzMjA5Mg.GVE-yH.SsUhVJcvvhMi987s2N4aDQEPqPZBwLgBSIdX-c')
+bot.run('아잇! 어! 푸르르!')
